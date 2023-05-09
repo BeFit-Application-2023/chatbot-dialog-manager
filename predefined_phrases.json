@@ -1,0 +1,76 @@
+{
+  "GOODBYE" : [
+    "Bye",
+    "Goodbye",
+    "Take care!",
+    "Take care of yourself!",
+    "See you soon"
+  ],
+  "POSITIVE" : [
+    "Happy to help you out!",
+    "If you are happy, I am happy :)",
+    "Here to help you!"
+  ],
+  "YOU_ARE_WELCOME" : [
+    "You are welcome",
+    "Welcome!",
+    "Anytime",
+    "Always here to help!",
+    "My greatest pleasure"
+  ],
+  "GREETING" : [
+    "Hi",
+    "Hello!",
+    "Hey",
+    "Hey, what's up?"
+  ],
+  "NEGATIVE" : [
+    "I'm sorry :(",
+    "Sorry",
+    "I's so sorry for you"
+  ],
+  "USER_IS_TIRED" : [
+    "I think it's time for you to take a rest",
+    "Maybe you do today a cheet day?",
+    "It's totaly, fine to rest!",
+    "Please don't over do with exercises"
+  ],
+  "ASK_FOR_DATE_OF_EXERCISE" : [
+    "For what dates do you want your exercise schedule?",
+    "What date you want the exercise?",
+    "When do you plan to do the exrcises?"
+  ],
+  "ASK_FOR_DATE_OF_MEALS" : [
+    "For what date do you want these meal plans?",
+    "When do you plat to eat?",
+    "For what day do you want the meal plan?"
+  ],
+  "WHAT_PARAMETER_TO_UPDATE" : [
+    "Do you want to update the weight or height?",
+    "What parameters you want to update?",
+    "Please, if this is the weight or height?"
+  ],
+  "TO_WHAT_VALUE_TO_UPDATE" : [
+    "To what values should I update them?",
+    "What figures to put in for this parameter?",
+    "Sure, just tell me to what value to update to"
+  ],
+  "ASK_WHAT_PARAMETERS_AND_TO_WHAT_VALUE_TO_UPDATE" : [
+    "Sure, I will update them, just tell me what value and to what values to update?",
+    "Yep, no problem, however I need to know that value to put in what parameter",
+    "Please state what value to what parameter to set :)"
+  ],
+  "ASK_FOR_WHAT_DATE_KCALS_BURNED" : [
+    "What date do you want the burned calories for?",
+    "Is there a specific date that you want to find the burned calories?"
+  ],
+  "ASK_FOR_WHAT_DATE_KCALS_GAINED" : [
+    "What date do you want the gained calories for?",
+    "Is there a specific date that you want to find the gained calories?"
+  ],
+  "ASK_WHAT_USER_MEAN" : [
+    "What do you mean?",
+    "I'm afraid I don't understand",
+    "Can you help me? I don't understand"
+  ]
+}

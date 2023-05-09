@@ -1,0 +1,12 @@
+{
+  "GET_PROGRESS" : {
+    "no-progress" : "Sorry but you didn't stated any goal in the app!",
+    "exists": "You reached {} of {}"
+  },
+  "GET_EXERCISE" : "{} you must do the following exerciese:\n{}",
+  "GET_MEALS" : "{} you should have the following meals:\n{}",
+  "UPDATE_PARAMETERS" : "{}",
+  "GET_STATS" : "Now your stats are the following:\n{}",
+  "KCALS_BURNED" : "{} you burned {} kcals",
+  "KCALS_GAINED" : "{} you gained {} kcals"
+}
